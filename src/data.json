@@ -1,0 +1,22 @@
+{
+"items" : [
+	{
+		"no": 1,
+		"productName": "파란 티셔츠",
+		"price": 1300,
+		"isSell": false
+	},
+	{
+		"no": 2,
+		"productName": "노란 티셔츠",
+		"price": 400,
+		"isSell": true
+	},
+	{
+		"no": 3,
+		"productName": "하얀 티셔츠",
+		"price": 1300,
+		"isSell": true
+	}]
+}
+
